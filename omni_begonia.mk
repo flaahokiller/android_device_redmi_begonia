@@ -23,8 +23,8 @@ $(call inherit-product, build/target/product/embedded.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := begonia
-PRODUCT_NAME := omni_begonia
-PRODUCT_BRAND := Redmi
-PRODUCT_MODEL := Redmi Note 8 Pro
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_DEVICE := 1916
+PRODUCT_NAME := omni_1916
+PRODUCT_BRAND := Vivo
+PRODUCT_MODEL := Vivo U10
+PRODUCT_MANUFACTURER := VIVO
